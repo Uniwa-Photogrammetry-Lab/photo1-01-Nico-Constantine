@@ -1,3 +1,8 @@
+# 1η άσκηση στη φωτογραμμετρία Ι
+# Όνομα: Παπαπανάγος Νικόλαος Κων/νος
+# Αριθμός Μητρώου: 20391070
+# Εξάμηνο: 10ο
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
